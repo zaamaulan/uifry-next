@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { FeatureHeader } from "../molecules/feature/feature-header";
 import { FeatureImage } from "../molecules/feature/feature-image";
 import { FeatureList } from "../molecules/feature/feature-list";

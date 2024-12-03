@@ -1,6 +1,4 @@
-import { memo } from "react";
-
-export const TestimonialHeader = memo(() => (
+export const TestimonialHeader = () => (
   <div className="space-y-1">
     <p className="text-lg font-medium uppercase tracking-widest text-carnation-400 md:text-center">
       testimonial
@@ -9,4 +7,4 @@ export const TestimonialHeader = memo(() => (
       what our users say about us?
     </h2>
   </div>
-));
+);
